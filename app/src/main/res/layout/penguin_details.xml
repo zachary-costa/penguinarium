@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <ImageView
+        android:id="@+id/penguinPicture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="TODO"
+        android:adjustViewBounds="true"
+        android:src="@drawable/emperor_bg" />
+
+    <TextView
+        android:id="@+id/penguinTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/penguinPicture"
+        android:layout_marginTop="20dp"
+        android:text="penguinTitle"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/penguinDescription"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/penguinTitle"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="2dp"
+        android:lineSpacingMultiplier="1.2"
+        android:text="penguinDescription"
+        android:textAlignment="viewStart"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>

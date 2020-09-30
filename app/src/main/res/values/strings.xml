@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Penguinarium</string>
+    <string name="info">Information</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="penguin_zoo_contact">Penguin Zoo Contact Number</string>
+    <string name="telephone_number">TEL: 1-800-PENGUIN</string>
+    <string name="emperor_desc"><b>Location:</b> Antarctica\n<b>Threat Status:</b> Near Threatened\n\nThe largest, heaviest and most famous of the penguin species, the Emperor Penguin is the only species that dares to breed during the bracing Antarctic winter, forming huddles of up to several hundred birds to shield the juveniles from temperatures that can drop as low as -60°C (-76°F).</string>
+    <string name="king_desc"><b>Location:</b> Antarctica\n<b>Threat Status:</b> Least Concern\n\nCapable of diving to depths of up to 300 meters (1,000 feet). The King Penguin manages to find food at such depths by hunting out bioluminescent (light-producing) prey such as squids and lanternfish.</string>
+    <string name="gentoo_desc"><b>Location:</b> Antarctica\n<b>Threat Status:</b> Least Concern\n\nThe fastest swimmer of all the penguins, reaching underwater speeds of 36 km/h (22 mph). They can remain underwater for up to seven minutes.</string>
+    <string name="chinstrap_desc"><b>Location:</b> Antarctica\n<b>Threat Status:</b> Least Concern\n\nIn 2004, a New York zookeeper noticed that a pair of male Chinstrap Penguins had paired up, and were trying to ‘hatch’ a rock. The keeper substituted an egg from another couple, and the two males hatched and raised the chick inside – a story immortalised in the children’s book, And Tango Makes Three.</string>
+    <string name="fairy_desc"><b>Location:</b> Australia, New Zealand\n<b>Threat Status:</b> Least Concern\n\nAt just 33cm, this strikingly blue bird is the smallest penguin in the world. Curiously, colonies have been established in urban areas of New Zealand, such as the capital city, Wellington.</string>
+    <string name="warningheader">WARNING</string>
+    <string name="warningmessage">Are you sure you want to click this very cute penguin?</string>
+    <string name="sources">Information provided by https://www.birdlife.org/</string>
+</resources>
